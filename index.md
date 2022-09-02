@@ -1,4 +1,5 @@
 ---
-title: Welcome to my blog
+title: Welcome to my crib
 ---
 
+This is a farm store. Enjoy
